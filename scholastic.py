@@ -1,2 +1,2 @@
-print ('olu'
-)
+print ('olu')
+
